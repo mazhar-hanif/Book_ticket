@@ -1,16 +1,57 @@
-# bookticket
+✈️ Book Ticket — Flutter App
 
-A new Flutter project.
+A Flutter mobile application for an intuitive flight ticket booking experience, with a clean interface designed to make browsing and managing travel options easier.
 
-## Getting Started
+🚀 Features
 
-This project is a starting point for a Flutter application.
+- Clean and responsive Flutter UI
+- Flight booking interface
+- Bottom navigation for Home, Search, Tickets, and Profile
+- Reusable UI components
+- Interactive navigation and user-friendly layouts
 
-A few resources to get you started if this is your first Flutter project:
+🛠️ Tech Stack
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter — Cross-platform mobile development
+- Dart — Programming language
+- Git & GitHub — Version control
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+📱 App Screenshots
+
+Add your actual application screenshots here.
+
+Example:
+
+Home Screen| Search Screen
+Add screenshot| Add screenshot
+
+⚙️ Getting Started
+
+1. Install Flutter and Dart.
+
+2. Clone this repository:
+   
+   git clone https://github.com/mazhar-hanif/Book_ticket.git
+
+3. Open the project folder:
+   
+   cd Book_ticket
+
+4. Install dependencies:
+   
+   flutter pub get
+
+5. Run the application:
+   
+   flutter run
+
+👨‍💻 Developer
+
+Mazhar Hanif
+Flutter Developer | Dart | Firebase | REST APIs
+
+- GitHub: https://github.com/mazhar-hanif
+
+---
+
+Built with Flutter and Dart.
